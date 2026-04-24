@@ -11,7 +11,8 @@ EcoSort AI is a web-based tool designed to solve the problem of improper waste d
 ---
 
 ## 📺 Live Demo
-*In your GitHub repository, you can add a screenshot or a GIF of the app working here!*
+*<img width="1916" height="1032" alt="image" src="https://github.com/user-attachments/assets/c4db0f68-6ee4-4f3a-9c1a-a01daf8c0c8a" />
+*
 
 ## ✨ Key Features
 - 🧠 **AI-Powered:** Uses a custom-trained image classification model.
